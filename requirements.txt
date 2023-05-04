@@ -1,0 +1,2 @@
+faster-whisper==0.5.1
+sounddevice==0.4.6
