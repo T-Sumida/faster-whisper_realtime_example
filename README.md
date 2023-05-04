@@ -1,0 +1,2 @@
+# whisper_realtime
+Whisperを使ってマイクからの音声をリアルタイムで音声認識する
